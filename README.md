@@ -28,6 +28,10 @@ Technologies we have used in this project are html, css, inline javascript and b
 
 ![image](https://user-images.githubusercontent.com/88819472/211184451-665fe9c4-9eb0-46aa-947b-9ac20ee7e58d.png)
 
+# Video Demo Link 
+
+https://drive.google.com/file/d/1SuqwN6WDRDE-4OuQLNNRdKjL-esEYOAI/view?usp=share_link
+
 # Contributors 
 
 1. Kiran Jadhav
