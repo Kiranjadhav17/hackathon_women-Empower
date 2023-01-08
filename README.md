@@ -30,7 +30,7 @@ Technologies we have used in this project are html, css, inline javascript and b
 
 # Video Demo Link 
 
-https://drive.google.com/file/d/1SuqwN6WDRDE-4OuQLNNRdKjL-esEYOAI/view?usp=share_link
+https://youtu.be/bDy5bGwmXw8
 
 # Contributors 
 
