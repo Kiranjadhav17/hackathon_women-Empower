@@ -33,4 +33,4 @@ Technologies we have used in this project are html, css, inline javascript and b
 1. Kiran Jadhav
 2. Sapana Survase
 3. Ashwini Singh
-4. Janavi Kawa
+4. Janvi Kawa
